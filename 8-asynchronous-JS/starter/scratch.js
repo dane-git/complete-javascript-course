@@ -72,6 +72,8 @@
 // // the () => {}; function in Promise is called an executor -> the function which is immediately called once the promise is created. 
 // // executor takes in two arguments , resolve and reject. Both of these are callback functions  
 // // if the promise was succesfull resolve is called, else reject is
+
+
 // const aPromise = new Promise((resolve, reject) => {
 //   // lets pretend result is a list of some blogPosts id numbers
 //   // result = array of id's
