@@ -14,7 +14,7 @@
   "author": "dane",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "dependencies": {}
 }
